@@ -1,4 +1,6 @@
 # Computer Vision - Deep Learning on Food101
+Convolutional Neural Network Models using pytorch 
+
 In this report, the results of the experiments using three different categories of neural
 networks on the Food101 dataset: a basic CNN, an all-convolutional net, and a model
 with regularization, are shown. I used Vanilla PyTorch for implementing the models and
